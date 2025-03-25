@@ -1,3 +1,3 @@
 title: Galaxy Invaders
 description: Welcome to Galaxy Invaders
-theme: hacker #jekyll-theme-cayman  # Or 'minimal', 'hacker', etc.
+theme: jekyll-theme-cayman  # Or 'minimal', 'hacker', etc.
