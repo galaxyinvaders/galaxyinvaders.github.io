@@ -2,6 +2,8 @@
 
 **Conquer the Cloud. Invade the Galaxy.**  
 
+ *Find us on GitHub:* [galaxyinvaders](https://github.com/galaxyinvaders) 
+
 ## 🌌 Why Galaxy Invaders?  
 
 I’ve always been amazed by how complex building a scalable cloud-native stack can feel — almost like trying to invade another galaxy. After working in this space for a while, I realized there isn’t a clear, standardized way for companies to get started. Everyone seems to reinvent the wheel, making things harder than they need to be.  
