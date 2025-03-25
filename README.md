@@ -2,7 +2,7 @@
 
 **Conquer the Cloud. Invade the Galaxy.**  
 
- *Find us on GitHub:* [galaxyinvaders](https://github.com/galaxyinvaders) 
+ *Find us on GitHub:* <a href="https://github.com/galaxyinvaders" target="_blank">galaxyinvaders</a> 
 
 ## 🌌 Why Galaxy Invaders?  
 
