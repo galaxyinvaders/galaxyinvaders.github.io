@@ -4,6 +4,8 @@
 
  *Find us on GitHub:* <a href="https://github.com/galaxyinvaders" target="_blank">galaxyinvaders</a> 
 
+ *Maintainer:* <a href="https://github.com/sanusatyadarshi" target="_blank">Sanu Satyadarshi</a> 
+
 ## 🌌 Why Galaxy Invaders?  
 
 I’ve always been amazed by how complex building a scalable cloud-native stack can feel — almost like trying to invade another galaxy. After working in this space for a while, I realized there isn’t a clear, standardized way for companies to get started. Everyone seems to reinvent the wheel, making things harder than they need to be.  
